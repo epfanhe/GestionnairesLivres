@@ -147,9 +147,9 @@ C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\bin\Debug\netcor
 C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\Razor\Views\Livres\Create.cshtml.g.cs
-C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\Razor\Views\Livres\Delete.cshtml.g.cs
-C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\Razor\Views\Livres\Details.cshtml.g.cs
-C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\Razor\Views\Livres\Edit.cshtml.g.cs
 C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\Razor\Views\Livres\Index.cshtml.g.cs
 C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\GestionnairesLivres.csproj.AssemblyReference.cache
+C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Pierre\Documents\EvaluationTravail\GestionnairesLivres\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs

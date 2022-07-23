@@ -58,10 +58,10 @@ namespace GestionnairesLivres
             app.UseEndpoints(endpoints =>
             {
             endpoints.MapDefaultControllerRoute();
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Gestion des ventes des livres- (.NET Core Web Application)");
-                });
+                //endpoints.MapGet("/", async context =>
+                //{
+                //    await context.Response.WriteAsync("Gestion des ventes des livres- (.NET Core Web Application)");
+                //});
                 //endpoints.MapDefaultControllerRoute(
                 //    //name: "default",
                 //pattern: "{controller=Home}/{action=Index}/{id?}");

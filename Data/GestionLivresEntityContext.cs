@@ -13,9 +13,12 @@ namespace GestionnairesLivres.Data
         {
 
         }
+
+
         public DbSet<Models.Livre> Livres
         {
             get; set;
         }
+        public object Livre { get; internal set; }
     }
 }
